@@ -7,15 +7,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="gs-spring-boot-docker (3) (org.springframework)" />
-        <module name="maven-archiver" />
         <module name="examTP" />
         <module name="gs-spring-boot-docker (2)" />
-        <module name="gs-spring-boot-docker (1)" />
-        <module name="gs-spring-boot-docker (2) (org.springframework)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="gs-spring-boot-docker (1)" target="1.5" />
+      <module name="gs-spring-boot-docker (2) (org.springframework)" target="1.8" />
       <module name="gs-spring-boot-docker (3)" target="1.8" />
+      <module name="maven-archiver" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
