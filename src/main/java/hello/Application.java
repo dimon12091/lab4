@@ -20,7 +20,7 @@ public class Application {
     @RequestMapping("/")
     public String home() {
         int a= 15;
-        int b = 41;
+        int b = 46;
         int sumar = sum(a,b);
         int subs = substract(a,b);
         int divid = divide(a,b);
@@ -37,7 +37,7 @@ public class Application {
         int i,fact=1;
         int number=4;
         fact = factorial(number);
-        String str = "Factorial of "+Integer.toString(number)+" is: "+Integer.toString(fact);
+        String str = "Factorial of TP"+Integer.toString(number)+" is: "+Integer.toString(fact);
         return str;
     }
 
@@ -59,7 +59,7 @@ public class Application {
     public String homefib() {
         int a = 10;
         int fib = fib(a);
-        return "Sequence fibonachi of "+Integer.toString(a)+" is: "+Integer.toString(fib);
+        return "Sequence fibonachi of hhhhhhhh"+Integer.toString(a)+" is: "+Integer.toString(fib);
     }
 
     public static void main(String[] args) {

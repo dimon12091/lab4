@@ -10,6 +10,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -109,53 +114,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="maven-archiver" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="maven-archiver" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="gs-spring-boot-docker (1)" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="hello.Application" />
@@ -198,7 +156,10 @@
       <workItem from="1576692557428" duration="1033000" />
       <workItem from="1576693881551" duration="3758000" />
       <workItem from="1576746820788" duration="1185000" />
-      <workItem from="1576931840182" duration="154000" />
+      <workItem from="1576931840182" duration="1927000" />
+      <workItem from="1576933804599" duration="925000" />
+      <workItem from="1576945816102" duration="9000" />
+      <workItem from="1577035109048" duration="1664000" />
     </task>
     <task id="LOCAL-00001" summary="Commit on exam">
       <created>1576671890393</created>
@@ -214,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576931909816</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit on exam1">
+      <created>1576932017817</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576932017817</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,41 +203,42 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit on exam" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit on exam" />
+    <MESSAGE value="Commit on exam1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit on exam1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="618" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576692616165">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="618" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1576692616165" />
-    <state x="159" y="26" key="CommitChangelistDialog2" timestamp="1576931908653">
+    <state x="159" y="26" key="CommitChangelistDialog2" timestamp="1576932017209">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="159" y="26" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1576931908653" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1576750015852">
+    <state x="159" y="26" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1576932017209" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1577036691973">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1576750015852" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1576750015852">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1577036691973" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1577036691973">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1576750015852" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1576750015852">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1577036691973" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1577036691973">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1576750015852" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1576750015852">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1577036691973" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1577036691973">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1576750015852" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1577036691973" />
     <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1576931912716">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1576931912716" />
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1576931841577">
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1576945816411">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1576931841577" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1576945816411" />
     <state x="578" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576931995767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
